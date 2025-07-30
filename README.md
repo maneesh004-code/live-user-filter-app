@@ -25,5 +25,5 @@ A responsive and interactive live user filtering application built with **HTML**
 ## 📦 Clone This Repo
 
 
-git clone https://github.com/maneesh004-code/live-user-filter.git
+git clone https://github.com/maneesh004-code/live-user-filter-app.git
 

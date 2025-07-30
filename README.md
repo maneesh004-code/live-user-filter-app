@@ -20,7 +20,7 @@ A responsive and interactive live user filtering application built with **HTML**
 
 ## 🌐 Live Demo
 
-👉 [Check Live Demo](https://maneesh004-code.github.io/live-user-filter) 
+👉 [Check Live Demo](https://maneesh004-code.github.io/live-user-filter-app/) 
 
 ## 📦 Clone This Repo
 
